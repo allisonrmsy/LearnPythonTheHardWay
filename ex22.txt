@@ -1,0 +1,18 @@
+.py = a file for python
+^ = caret character shows where the problem is.
+# = octothorpe character/ hash/ mesh/ pound, these are comments, these tell us what something means in a program in english. Anything after a comment is ignored by python.
+print = starting a strand in python.
++ = plus, addition.
+- = minus, subtraction.
+* = asterisk,
+% = percent, 
+< = less-than, 
+> = greater-than, 
+<= = less-than-equal,
+>= = greater-than-equal,
+"" = string
+%s, %r, %d = formatters
+round() = rounding a number in the parenthesis
+print """ = starting a phrase, 5 or 6 sentences together. Must end with this too.
+\ = putting difficult to code characters into a string.
+
